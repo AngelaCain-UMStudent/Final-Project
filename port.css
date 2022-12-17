@@ -1,0 +1,47 @@
+body{
+    background-color: cornsilk;
+   ;
+}
+/*  class selector */
+.banner{
+    
+
+    font-family: 'Times New Roman';
+    font-size: 32px;
+    color:black;
+}
+/* class selector */
+.promo
+{
+    font-family: 'Times New Roman';
+    font-size: 22px;
+    color:black;
+}
+/* id selector */
+body{background-color: cornsilk;
+
+}
+.about{
+    background-color: cornsilk;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    color: black;
+}
+
+body{
+    background-color: cornsilk;
+}
+.portfolio{
+    font-family: 'Times New Roman';
+    font-size: 32px;
+    color:black;
+}
+
+/* class selector */
+.item
+{
+    font-family: 'Times New Roman';
+    font-size: 15px;
+    color:black;
+}
+
